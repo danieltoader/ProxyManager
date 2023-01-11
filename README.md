@@ -1,3 +1,5 @@
+This project has been archived, and is no longer under active maintenance. You can use: https://github.com/FriendsOfPHP/proxy-manager-lts
+
 # Proxy Manager
 
 ## A message to Russian 🇷🇺 people
